@@ -5,6 +5,7 @@ Taiga contrib gogs
 [![Managed with Taiga.io](https://taiga.io/media/support/attachments/article-22/banner-gh.png)](https://taiga.io "Managed with Taiga.io")
 
 
+
 The Taiga plugin for gogs integration.
 
 Installation
